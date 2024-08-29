@@ -1,0 +1,5 @@
+{
+  "contractAddress": "Your Contract Address Here",
+  "pinataApiKey": "Your Pinata API Key",
+  "pinataSecretApiKey": "Your Pinata Secret API Key"
+}
