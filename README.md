@@ -16,17 +16,25 @@ bun dev
 
 ## Main Commands
 
-`npx hardhat compile`
-`npx hardhat node`
-`npx hardhat run scripts/deploy.js --network localhost`
+- `npx hardhat compile`
+- `npx hardhat node`
+- `npx hardhat run scripts/deploy.js --network localhost`
 
 ## Testnet
 
 Get test ETH from a faucet:
 
-For Sepolia: https://sepoliafaucet.com/
-For Goerli: https://goerlifaucet.com/
 
+- For Sepolia: https://sepoliafaucet.com/
+
+- For Goerli: https://goerlifaucet.com/
+
+
+## Screenshots
+
+![alt text](image.png)
+
+## Start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
