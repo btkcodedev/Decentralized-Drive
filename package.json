@@ -1,5 +1,5 @@
 {
-  "name": "my-web3-upload-site",
+  "name": "web3-file-upload",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,18 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.7"
+    "@fontsource/poppins": "^5.0.15",
+    "@pinata/sdk": "^2.1.0",
+    "axios": "^1.7.5",
+    "bufferutil": "^4.0.8",
+    "ethers": "^5.7.2",
+    "next": "14.2.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "utf-8-validate": "^5.0.10"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.7"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@types/node": "^20.16.2",
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
+    "chai": "^4.5.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.7",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.22.9",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.5.4"
   }
 }

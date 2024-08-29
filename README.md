@@ -14,6 +14,20 @@ pnpm dev
 bun dev
 ```
 
+## Main Commands
+
+`npx hardhat compile`
+`npx hardhat node`
+`npx hardhat run scripts/deploy.js --network localhost`
+
+## Testnet
+
+Get test ETH from a faucet:
+
+For Sepolia: https://sepoliafaucet.com/
+For Goerli: https://goerlifaucet.com/
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
